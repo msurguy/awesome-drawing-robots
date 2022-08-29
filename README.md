@@ -3,7 +3,7 @@ Compilation of drawing robots and pen plotters
 
 ## Commercial Plotters
 
-- [Axidraw](https://shop.evilmadscientist.com/directory) (get 10% off with affiliate coupon PENPLOT)
+- [Axidraw](https://shop.evilmadscientist.com/directory) (get 10% off with affiliate coupon "PLOTTER")
 - [Makelangelo](https://www.marginallyclever.com/products/makelangelo-5/)
 - [Joto](https://www.joto.rocks/)
 - [Line-us](https://www.line-us.com/) mini plotter
